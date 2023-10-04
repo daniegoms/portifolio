@@ -3,8 +3,7 @@ body{
     background-color:lavenderblush;
     font-family: Arial, Helvetica, sans-serif;
     
-}
- ul{
+ul{
     display: flex;
     justify-content: space-between;
     list-style-type: none;
@@ -27,7 +26,9 @@ figure{
     gap: 15px;
     justify-content: center;
     text-align: center;
+    border-radius: 50%;
 }
+
 #img_circular{
     border-radius: 200px;
     border: 7px solid rosybrown;
