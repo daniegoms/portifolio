@@ -45,9 +45,9 @@ section h2{
 a{
     color:darkslategrey;
 }
-footer{
-    display: flex;
-    justify-content: center;
+address{
+    text-align: center;
+    align-items:center;
     padding: 17px;
 }
 
