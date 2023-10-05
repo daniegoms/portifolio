@@ -42,6 +42,13 @@ figure{
 section h2{
     color: rosybrown;
 }
+.container{
+     justify-content: center;
+    max-width: 127.6 rem;
+    margin: 2%;
+    padding: 3px;
+}
+
 a{
     color:darkslategrey;
 }
